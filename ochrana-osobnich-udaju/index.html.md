@@ -93,6 +93,8 @@ Mapové podklady a písmo mapy. Mapová data © přispěvatelé OpenStreetMap.
 
 Odkazy na mapy Google, sociální sítě a weby našich projektů se otevírají až po kliknutí. Na jejich stránkách pak platí zásady jejich provozovatelů.
 
+Záznam benefičního koncertu na stránce O nás se načte z adresy youtube-nocookie.com (YouTube, společnost Google) až po kliknutí na náhled videa. Do té doby náš web s YouTube nekomunikuje a náhled je uložený přímo na našem webu. Po spuštění videa platí zásady společnosti Google.
+
 Kdybychom v budoucnu chtěli používat cookies, které nejsou nezbytné (například měření návštěvnosti), požádáme vás předem o souhlas. Odmítnout bude stejně snadné jako souhlasit a souhlas půjde kdykoli odvolat.
 
 ## 05 · Administrace Administrace webu
