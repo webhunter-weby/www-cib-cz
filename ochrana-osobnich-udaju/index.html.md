@@ -6,9 +6,6 @@ Zdroj: https://www.cib.cz/ochrana-osobnich-udaju/
 
 ## Právní informace Ochrana osobních údajů
 
-Právní informace
-Ochrana osobních údajů
-
 Jak zacházíme s vašimi údaji, proč web nepoužívá cookies a jaká máte práva.
 
 Obsah
