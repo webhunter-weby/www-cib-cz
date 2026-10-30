@@ -1,0 +1,193 @@
+{
+ "stranky": [
+  {
+   "url": "/",
+   "nazev": "Domů"
+  },
+  {
+   "url": "/kontakt/",
+   "nazev": "Kontakt"
+  },
+  {
+   "url": "/nemovitosti/",
+   "nazev": "Nemovitosti"
+  },
+  {
+   "url": "/o-nas/",
+   "nazev": "O nás"
+  },
+  {
+   "url": "/ochrana-osobnich-udaju/",
+   "nazev": "Ochrana osobních údajů a cookies"
+  },
+  {
+   "url": "/development/lichoceves/",
+   "nazev": "Obec v zahradě"
+  },
+  {
+   "url": "/nemovitosti/balabenka/",
+   "nazev": "Balabenka Office Building"
+  },
+  {
+   "url": "/nemovitosti/sprava-bytu-liberec/",
+   "nazev": "Správa bytů Liberec a Hrádek nad Nisou"
+  },
+  {
+   "url": "/nemovitosti/sprava-bytu-praha/",
+   "nazev": "Správa bytů Praha"
+  },
+  {
+   "url": "/nemovitosti/vodickova-33/",
+   "nazev": "Residence Vodičkova 33"
+  },
+  {
+   "url": "/nemovitosti/vodickova-luxury-suites/",
+   "nazev": "Vodičkova Luxury Suites"
+  },
+  {
+   "url": "/staje/emma-sophia-stables/",
+   "nazev": "Emma Sophia Stables"
+  }
+ ],
+ "kontakty": [
+  {
+   "id": "tel:420296249311",
+   "typ": "tel",
+   "hodnota": "+420 296 249 311",
+   "popisky": [
+    "Centrála CIB GROUP",
+    "Centrála, pracovní dny",
+    "Centrála CIB GROUP, Vodičkova 709/33"
+   ],
+   "stranky": [
+    "/development/lichoceves/",
+    "/",
+    "/kontakt/",
+    "/nemovitosti/balabenka/",
+    "/nemovitosti/",
+    "/nemovitosti/sprava-bytu-liberec/",
+    "/nemovitosti/sprava-bytu-praha/",
+    "/nemovitosti/vodickova-33/",
+    "/nemovitosti/vodickova-luxury-suites/",
+    "/o-nas/",
+    "/ochrana-osobnich-udaju/",
+    "/staje/emma-sophia-stables/"
+   ]
+  },
+  {
+   "id": "tel:420607085515",
+   "typ": "tel",
+   "hodnota": "+420 607 085 515",
+   "popisky": [
+    "Byty Liberec, Martina Kmínková ml."
+   ],
+   "stranky": [
+    "/development/lichoceves/",
+    "/",
+    "/kontakt/",
+    "/nemovitosti/balabenka/",
+    "/nemovitosti/sprava-bytu-liberec/",
+    "/nemovitosti/sprava-bytu-praha/",
+    "/nemovitosti/vodickova-33/",
+    "/nemovitosti/vodickova-luxury-suites/",
+    "/o-nas/",
+    "/staje/emma-sophia-stables/"
+   ]
+  },
+  {
+   "id": "tel:420724009533",
+   "typ": "tel",
+   "hodnota": "724 009 533",
+   "popisky": [
+    "Byty Hrádek nad Nisou, Ing. Martina Kmínková"
+   ],
+   "stranky": [
+    "/kontakt/",
+    "/nemovitosti/sprava-bytu-liberec/"
+   ]
+  },
+  {
+   "id": "mail:info@cib.cz",
+   "typ": "mail",
+   "hodnota": "info@cib.cz",
+   "popisky": [
+    "Obecné dotazy"
+   ],
+   "stranky": [
+    "/development/lichoceves/",
+    "/",
+    "/kontakt/",
+    "/nemovitosti/balabenka/",
+    "/nemovitosti/",
+    "/nemovitosti/sprava-bytu-liberec/",
+    "/nemovitosti/sprava-bytu-praha/",
+    "/nemovitosti/vodickova-33/",
+    "/nemovitosti/vodickova-luxury-suites/",
+    "/o-nas/",
+    "/ochrana-osobnich-udaju/",
+    "/staje/emma-sophia-stables/"
+   ]
+  },
+  {
+   "id": "mail:vasutova@cib.cz",
+   "typ": "mail",
+   "hodnota": "vasutova@cib.cz",
+   "popisky": [
+    "Pronájem komerčních prostor"
+   ],
+   "stranky": [
+    "/",
+    "/kontakt/",
+    "/nemovitosti/balabenka/",
+    "/nemovitosti/vodickova-33/",
+    "/o-nas/"
+   ]
+  },
+  {
+   "id": "mail:eva.spanko@cib.cz",
+   "typ": "mail",
+   "hodnota": "eva.spanko@cib.cz",
+   "popisky": [
+    "Akvizice a partnerství"
+   ],
+   "stranky": [
+    "/development/lichoceves/",
+    "/kontakt/",
+    "/o-nas/"
+   ]
+  },
+  {
+   "id": "mail:liberec@cib.cz",
+   "typ": "mail",
+   "hodnota": "liberec@cib.cz",
+   "popisky": [
+    "Kancelář správy Liberec"
+   ],
+   "stranky": [
+    "/kontakt/",
+    "/nemovitosti/sprava-bytu-liberec/"
+   ]
+  },
+  {
+   "id": "mail:kminkova@cib.cz",
+   "typ": "mail",
+   "hodnota": "kminkova@cib.cz",
+   "popisky": [
+    "Kancelář správy Hrádek nad Nisou"
+   ],
+   "stranky": [
+    "/kontakt/",
+    "/nemovitosti/sprava-bytu-liberec/"
+   ]
+  },
+  {
+   "id": "mail:faktury@cib.cz",
+   "typ": "mail",
+   "hodnota": "faktury@cib.cz",
+   "popisky": [],
+   "stranky": [
+    "/kontakt/"
+   ]
+  }
+ ]
+}
